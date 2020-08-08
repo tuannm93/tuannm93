@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Gatsby.js**
 
-- 👨‍💻 All of my projects are available at [https://tuannm.com](https://tuannm.com)
+- 👨‍💻 All of my projects are available at [https://tuannm.com](https://tuannm.com) *(updating...)*
 
-- 📝 I regulary write articles on [https://blog.tuannm.com](https://blog.tuannm.com)
+- 📝 I regulary write articles on [https://blog.tuannm.com](https://blog.tuannm.com) *(updating...)*
 
 - 💬 Ask me about **Angular, Jekyll**
 
