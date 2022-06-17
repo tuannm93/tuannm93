@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://blog.tuannm.com](https://blog.tuannm.com) *(updating...)*
 
-- 💬 Ask me about **Angular, Jekyll**
+- 💬 Ask me about **Angular, Jekyll, VueJS**
 
 - 📫 How to reach me **tuannm.cntt93@gmail.com**
 
