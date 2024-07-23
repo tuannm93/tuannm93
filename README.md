@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Angular, Jekyll, VueJS**
 
-- 📫 How to reach me **tuannm.cntt93@gmail.com**
+- 📫 How to reach me **tuannm.online@gmail.com**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannm93&layout=compact&hide=html" alt="tuannm93" />
 
